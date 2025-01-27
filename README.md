@@ -5,15 +5,18 @@ This repository contains my solutions to various LeetCode problems, demonstratin
 A mix of easy, medium, and hard problems.<br />
 Well-documented code for clarity and understanding.<br />
 Optimized and efficient solutions with notes on time and space complexity.<br />
+<br />
 💡 Why This Repository?<br />
 I created this repository to:<br />
 
 Document my learning journey in competitive programming.<br />
 Provide a resource for fellow developers and interviewers to evaluate my coding style and approach to problem-solving.<br />
 Stay prepared for technical interviews by practicing regularly.<br />
+<br />
 🛠️ Tech Stack<br />
 Languages Used: Primarily C++, Python.<br />
 Tools: LeetCode platform for problem-solving and Git for version control.<br />
+<br />
 🌟 Highlights<br />
 Clean and maintainable code structure.<br />
 Detailed comments for better readability.<br />
