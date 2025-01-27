@@ -14,7 +14,7 @@ Provide a resource for fellow developers and interviewers to evaluate my coding 
 Stay prepared for technical interviews by practicing regularly.<br />
 <br />
 🛠️ Tech Stack<br />
-Languages Used: Primarily C++, Python.<br />
+Language Used: Primarily Python.<br />
 Tools: LeetCode platform for problem-solving and Git for version control.<br />
 <br />
 🌟 Highlights<br />
